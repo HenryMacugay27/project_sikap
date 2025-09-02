@@ -3,7 +3,7 @@ import 'package:project_leap/main.dart';
 import 'package:project_leap/screens/students_portal/story/story_page.dart';
 import '../utils/authentication/auth.dart';
 import '../model/module.dart';
-import '../model/user.dart';
+import '../model/user.dart'; 
 import '../screens/students_portal/module/module_page.dart';
 import '../screens/students_portal/practice_exam/practice_exam_easy.dart';
 import '../screens/students_portal/practice_exam/practice_exam_medium.dart';
