@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Module 1",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/pdf/Modyul1.pdf"
+    ]
+  },
+  {
+    "name": "Module 2",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/pdf/Modyul2.pdf"
+    ]
+  },
+  {
+    "name": "Module 3",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/pdf/Modyul3.pdf"
+    ]
+  },
+  {
+    "name": "Module 4",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/pdf/Modyul4.pdf"
+    ]
+  },
+  {
+    "name": "Module 5",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/pdf/Modyul5.pdf"
+    ]
+  }
+]

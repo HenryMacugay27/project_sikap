@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Module 1",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Modyul1.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Story.pdf",
+    "audio": "module/year_level_9/quarter_1/audio.mp3"
+  },
+  {
+    "name": "Module 2",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Modyul2.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Story.pdf",
+    "audio": "module/year_level_9/quarter_1/audio.mp3"
+  },
+  {
+    "name": "Module 3",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Modyul3.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Story.pdf",
+    "audio": "module/year_level_9/quarter_1/audio.mp3"
+  },
+  {
+    "name": "Module 4",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Modyul4.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Story.pdf",
+    "audio": "module/year_level_9/quarter_1/audio.mp3"
+  },
+  {
+    "name": "Module 5",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Modyul5.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Story.pdf",
+    "audio": "module/year_level_9/quarter_1/audio.mp3"
+  },
+  {
+    "name": "Article 1",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Article1.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Article1.pdf",
+    "audio": "module/year_level_9/quarter_1/audio_article_1.mp3"
+  },
+  {
+    "name": "Article 2",
+    "description": "Ang module na ito ay naglalayong ipaliwanag ang mga pangunahing konsepto at teorya sa ekonomiks, kabilang ang kakapusan, oportunidad na gastos, at mga pangunahing tanong ng ekonomiya.",
+    "link": [
+      "assets/module/year_level_9/quarter_1/Article2.pdf"
+    ],
+    "story": "assets/module/year_level_9/quarter_1/Article2.pdf",
+    "audio": "module/year_level_9/quarter_1/audio_article_1.mp3"
+  }
+]

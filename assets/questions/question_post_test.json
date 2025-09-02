@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Saan nagmula ang salitang ekonomiks na ang ibig sabihin ay oikonomia?",
+    "options": ["Filipino", "English", "Griyego", "Kastila"],
+    "correctAnswer": "Griyego",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sinisikap ng ekonomiks na mapalawak ang kakayahan ng tao sa pagbuo ng matalinong ____________.",
+    "options": ["Desisyon", "Distribusyon", "Sektor", "Sitwasyon"],
+    "correctAnswer": "Desisyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Tumutukoy sa dagdag na pakinabang o halaga na maaari nating makuha sa gagawing desisyon.",
+    "options": ["Incentive", "Marginal Thinking", "Opportunity Cost", "Trade-off"],
+    "correctAnswer": "Marginal Thinking",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Kung ikaw ay isang taong rasyonal, ano ang dapat mong isaalang-alaang sa paggawa ng desisyon?",
+    "options": ["Mga hilig at kagustuhan", "Mga dinadaluhang okasyon", "Mga paniniwala, mithiin at tradisyon", "Mga opportunity cost sa pagdedesisyon"],
+    "correctAnswer": "Mga opportunity cost sa pagdedesisyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ito ay nauukol sa mga pangangailangan sa pagkakamit ng respeto sa sarili at sa kapwa.",
+    "options": ["Physiological Needs", "Safety Needs", "Self Esteem", "Social Needs"],
+    "correctAnswer": "Self Esteem",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Kabilang dito ang mga pangangailangan para sa kaligtasan at katiyakan ng buhay gaya ng hanapbuhay at seguridad.",
+    "options": ["Physiological Needs", "Safety Needs", "Self Esteem", "Social Needs"],
+    "correctAnswer": "Safety Needs",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang pangunahing suliranin ng ating lipunan kung saan ang limitadong pinagkukunang-yaman ay hindi sapat sa walang hanggang pangangailangan ng tao?",
+    "options": ["Kagipitan", "Kakapusan", "Kakulangan", "Kalamidad"],
+    "correctAnswer": "Kakapusan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang tawag sa mekanismo ng pamamahagi ng pinagkukunang-yaman upang mapunan ang pangangailangan ng tao?",
+    "options": ["Alokasyon", "Kakapusan", "Kakulangan", "Presyo"],
+    "correctAnswer": "Alokasyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Saang sistemang pang-ekonomiya kabilang ang Pilipinas?",
+    "options": ["Command Economy", "Market Economy", "Mixed Economy", "Traditional Economy"],
+    "correctAnswer": "Mixed Economy",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang ____________ ay isang uri ng pamamaraan na kinabibilangan ng produksyon at pamamahagi ng produkto.",
+    "options": ["Sistemang Panlipunan", "Sistemang Pangkalakalan", "Sistemang Pangkabuhayan", "Sistemang Pang-ekonomiya"],
+    "correctAnswer": "Sistemang Pang-ekonomiya",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ito ay kita ng entrepreneur matapos magtagumpay sa pakikipagsapalaran sa negosyo.",
+    "options": ["Interes", "Sahod", "Subsidy", "Tubo o Profit"],
+    "correctAnswer": "Tubo o Profit",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang ____________ ay isang uri ng pagkonsumo kung saan ang kasiyahan ay agad na natatamo.",
+    "options": ["Maaksaya", "Mapanganib", "Produktibo", "Tuwiran"],
+    "correctAnswer": "Tuwiran",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Salik na nagbibigay impormasyon upang hikayatin ang mamimili.",
+    "options": ["Bandwagon", "Brand Name", "Pag-aanunsyo", "Testimonial"],
+    "correctAnswer": "Pag-aanunsyo",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Binubuo ng 15 miyembro pataas at layuning magbigay ng mas murang serbisyo.",
+    "options": ["Cooperative", "Corporation", "Partnership", "Sole Proprietorship"],
+    "correctAnswer": "Cooperative",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Pinakamasalimuot na organisasyon ng negosyo na may hiwalay na legal na katauhan.",
+    "options": ["Cooperative", "Corporation", "Partnership", "Sole Proprietorship"],
+    "correctAnswer": "Corporation",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sa bawat pagpapasya ay may trade-off at opportunity cost. Bakit?",
+    "options": ["Dahil sa mga maling gawain ng mga tao", "Dahil walang katapusan ang kagustuhan ng tao", "Dahil limitado ang kaalaman ng mga konsyumer", "Dahil sa papalit-palit na pangangailangan"],
+    "correctAnswer": "Dahil walang katapusan ang kagustuhan ng tao",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ayon kay Maslow, alin ang tumutukoy sa pagkain, tubig, tirahan, at hangin?",
+    "options": ["Mabuhay", "Makisalamuha", "Pangkaligtasan", "Pisyolohikal"],
+    "correctAnswer": "Pisyolohikal",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "140107646976",
+    "firebase_url": "https://remediation-app-default-rtdb.firebaseio.com",
+    "project_id": "remediation-app",
+    "storage_bucket": "remediation-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140107646976:android:7ab4e9f947d155f7a730e5",
+        "android_client_info": {
+          "package_name": "com.example.project_leap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8gxFPmWewzoc_5tNHMYdLnr63uHoWKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140107646976:android:81ed9ce167934110a730e5",
+        "android_client_info": {
+          "package_name": "com.example.remedial_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8gxFPmWewzoc_5tNHMYdLnr63uHoWKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

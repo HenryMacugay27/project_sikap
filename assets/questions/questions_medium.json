@@ -1,0 +1,351 @@
+[
+  {
+    "question": "Ano ang pangunahing layunin ng ekonomiks?",
+    "options": ["Kumita ng pera", "Gumawa ng batas", "Tugunan ang kakapusan ng yaman", "Magnegosyo"],
+    "correctAnswer": "Tugunan ang kakapusan ng yaman",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang ekonomiks ay isang agham na panlipunan dahil:",
+    "options": ["Ito ay base sa matematika", "Tumatalakay ito sa kalikasan", "Tumatalakay ito sa kilos ng tao sa lipunan", "Ito ay bahagi ng agham pisikal"],
+    "correctAnswer": "Tumatalakay ito sa kilos ng tao sa lipunan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sino ang kinikilalang \"Ama ng Ekonomiks\"?",
+    "options": ["Karl Marx", "Adam Smith", "David Ricardo", "John Keynes"],
+    "correctAnswer": "Adam Smith",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang pamagat ng aklat ni Adam Smith?",
+    "options": ["Das Kapital", "The Wealth of Nations", "Principles of Economics", "Economic Development"],
+    "correctAnswer": "The Wealth of Nations",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang hindi saklaw ng ekonomiks?",
+    "options": ["Paggamit ng yaman", "Pagpapasya ng sambahayan", "Produksyon at distribusyon", "Paggamot ng pasyente"],
+    "correctAnswer": "Paggamot ng pasyente",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong disiplina ang malapit na kaugnay ng ekonomiks?",
+    "options": ["Heograpiya", "Kasaysayan", "Sosyolohiya", "Lahat ng nabanggit"],
+    "correctAnswer": "Lahat ng nabanggit",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang tawag sa pag-aaral ng buong ekonomiya ng bansa?",
+    "options": ["Mikroekonomiks", "Ekonomiks", "Makroekonomiks", "Sosyolohiya"],
+    "correctAnswer": "Makroekonomiks",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang kahulugan ng salitang \"ekonomiks\"?",
+    "options": ["Pera at negosyo", "Pamamahala sa tahanan", "Kalakalang panlabas", "Pagkonsumo at pagbili"],
+    "correctAnswer": "Pamamahala sa tahanan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong mahalagang isyu ang sinosolusyonan ng ekonomiks?",
+    "options": ["Korapsyon", "Kakapusan", "Edukasyon", "Turismo"],
+    "correctAnswer": "Kakapusan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang epekto ng kaalaman sa ekonomiks?",
+    "options": ["Pagkakaroon ng negosyo", "Matalinong desisyon", "Pagyaman", "Paglibang"],
+    "correctAnswer": "Matalinong desisyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },{
+    "question": "Alin sa mga sumusunod ang tumutukoy sa kakapusan?",
+    "options": ["Kawalan ng transportasyon", "Limitadong pinagkukunang-yaman", "Mataas na presyo", "Panandaliang suliranin"],
+    "correctAnswer": "Limitadong pinagkukunang-yaman",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang pangunahing sanhi ng kakapusan?",
+    "options": ["Gahaman ang tao", "Maraming produkto", "Walang trabaho", "Walang hanggang pangangailangan"],
+    "correctAnswer": "Walang hanggang pangangailangan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin ang tumutukoy sa kakulangan?",
+    "options": ["Likas at permanenteng kondisyon", "Gawa ng kalikasan", "Panandaliang problema sa supply", "Pangmatagalang problema sa ekonomiya"],
+    "correctAnswer": "Panandaliang problema sa supply",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Paano malulunasan ang kakapusan?",
+    "options": ["Magtipid at maging produktibo", "Taasan ang presyo", "Huwag magtrabaho", "Itigil ang produksiyon"],
+    "correctAnswer": "Magtipid at maging produktibo",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang maaaring dulot ng kakapusan kung di maaayos?",
+    "options": ["Pag-unlad", "Kakulangan sa edukasyon", "Kahirapan", "Pagkakataon sa negosyo"],
+    "correctAnswer": "Kahirapan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang hindi sanhi ng kakulangan?",
+    "options": ["Pagtatago ng produkto", "Panahon", "Limitadong likas na yaman", "Hoarding"],
+    "correctAnswer": "Limitadong likas na yaman",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong konsepto ang may kaugnayan sa ‘hoarding’?",
+    "options": ["Kakapusan", "Kakulangan", "Produktibidad", "Kapitalismo"],
+    "correctAnswer": "Kakulangan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang halimbawa ng kakulangan?",
+    "options": ["Matagalang tagtuyot", "Pagsasara ng pabrika", "Pagtaas ng suplay", "Likas na sakuna"],
+    "correctAnswer": "Pagsasara ng pabrika",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang epekto ng kakulangan sa presyo?",
+    "options": ["Bumaba", "Mawala", "Maging libre", "Tumaas"],
+    "correctAnswer": "Tumaas",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin ang hindi solusyon sa kakapusan?",
+    "options": ["Makabagong teknolohiya", "Paggamit ng alternatibong yaman", "Maling pamamahagi", "Edukasyon sa pagtitipid"],
+    "correctAnswer": "Maling pamamahagi",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin ang halimbawa ng pangangailangan?",
+    "options": ["Cellphone", "Ice cream", "Damit", "Alahas"],
+    "correctAnswer": "Damit",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin ang nagpapakita ng kagustuhan?",
+    "options": ["Gamot", "Tubig", "Pagkain", "Laptop"],
+    "correctAnswer": "Laptop",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong salik ang nakaaapekto sa kagustuhan?",
+    "options": ["Kita", "Edad", "Panlasa", "Kalusugan"],
+    "correctAnswer": "Panlasa",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang pangunahing batayan ng pangangailangan?",
+    "options": ["Hilig", "Kita", "Kalagayan sa buhay", "Panahon at edad"],
+    "correctAnswer": "Panahon at edad",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang hindi pangangailangan?",
+    "options": ["Hangin", "Tahanan", "Damit", "Alak"],
+    "correctAnswer": "Alak",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sa teorya ni Maslow, ano ang nasa pinakamababang antas?",
+    "options": ["Self-actualization", "Kaligtasan", "Pisyolohikal", "Pagmamahal"],
+    "correctAnswer": "Pisyolohikal",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang self-actualization ay tumutukoy sa:",
+    "options": ["Pagkain at inumin", "Kalusugan", "Personal na tagumpay", "Seguridad sa trabaho"],
+    "correctAnswer": "Personal na tagumpay",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang tawag sa mga bagay na hindi lubos na kailangan upang mabuhay?",
+    "options": ["Yaman", "Kagustuhan", "Serbisyo", "Likas na pangangailangan"],
+    "correctAnswer": "Kagustuhan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Bakit mahalagang unahin ang pangangailangan?",
+    "options": ["Mas mura", "Uso", "Panatilihin ang kalusugan", "Para magyabang"],
+    "correctAnswer": "Panatilihin ang kalusugan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Isa sa epekto ng hindi pagtukoy sa pangangailangan at kagustuhan:",
+    "options": ["Matipid", "Nalulugi", "Matalino sa pag-gastos", "Nakakaiwas sa problema"],
+    "correctAnswer": "Nalulugi",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+    {
+    "question": "Ano ang layunin ng alokasyon?",
+    "options": ["Pagbebenta", "Pamamahagi ng yaman", "Pagtaas ng presyo", "Pagpapataw ng buwis"],
+    "correctAnswer": "Pamamahagi ng yaman",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong sistemang pang-ekonomiya ang kontrolado ng pamahalaan?",
+    "options": ["Tradisyunal", "Command economy", "Market economy", "Mixed economy"],
+    "correctAnswer": "Command economy",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sa anong sistema ginagabayan ng kalayaan sa pamilihan ang desisyon?",
+    "options": ["Command", "Tradisyunal", "Market", "Komunismo"],
+    "correctAnswer": "Market",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sa sistemang tradisyunal, paano itinatakda ang produksyon?",
+    "options": ["Batay sa batas", "Batay sa kagustuhan ng mamamayan", "Batay sa tradisyon at kaugalian", "Batay sa presyuhan"],
+    "correctAnswer": "Batay sa tradisyon at kaugalian",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang hindi bahagi ng sistemang pang-ekonomiya?",
+    "options": ["Alokasyon", "Produksyon", "Edukasyon", "Distribusyon"],
+    "correctAnswer": "Edukasyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang tawag sa pinaghalong sistemang pampamilihan at kontrolado ng gobyerno?",
+    "options": ["Social economy", "Mixed economy", "Komunismo", "Kapitalismo"],
+    "correctAnswer": "Mixed economy",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang papel ng teknolohiya sa alokasyon?",
+    "options": ["Bumababa ang presyo", "Mas mabilis ang distribusyon", "Nadadagdagan ang demand", "Nakakabawas sa yaman"],
+    "correctAnswer": "Mas mabilis ang distribusyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang sistemang market economy ay nakabatay sa:",
+    "options": ["Pananampalataya", "Presyo at kompetisyon", "Batas ng gobyerno", "Pangunahing pangangailangan"],
+    "correctAnswer": "Presyo at kompetisyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Paano tinutugunan ng command economy ang kakapusan?",
+    "options": ["Sa pamamagitan ng pag-iimport", "Sa pamamagitan ng malayang kalakalan", "Sa pamamagitan ng kontrolado at planadong produksyon", "Sa pamamagitan ng dayuhang pondo"],
+    "correctAnswer": "Sa pamamagitan ng kontrolado at planadong produksyon",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang pangunahing layunin ng sistemang pang-ekonomiya?",
+    "options": ["Kumita ng buwis", "Mapabuti ang transportasyon", "Masigurong may sapat na produkto para sa lahat", "Maging mayaman ang gobyerno"],
+    "correctAnswer": "Masigurong may sapat na produkto para sa lahat",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ano ang tawag sa paggamit ng produkto o serbisyo?",
+    "options": ["Produksyon", "Konsumo", "Distribusyon", "Kalakalan"],
+    "correctAnswer": "Konsumo",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang layunin ng produksyon ay:",
+    "options": ["Kumita ng interes", "Mag-angkat ng produkto", "Matugunan ang pangangailangan ng tao", "Makipagkalakalan"],
+    "correctAnswer": "Matugunan ang pangangailangan ng tao",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang salik ng produksyon?",
+    "options": ["Panlasa", "Kapital", "Kita", "Konsumo"],
+    "correctAnswer": "Kapital",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong uri ng pagkonsumo ang inuuna ang iba?",
+    "options": ["Mapanganib", "Makatwiran", "Maka-katao", "Mapagmataas"],
+    "correctAnswer": "Maka-katao",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Paggamit ng produkto ng hindi tama:",
+    "options": ["Produktibo", "Mapanganib", "Maka-kalikasan", "Matipid"],
+    "correctAnswer": "Mapanganib",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong salik ang hindi kabilang sa produksiyon?",
+    "options": ["Lupa", "Paggawa", "Pananampalataya", "Kapital"],
+    "correctAnswer": "Pananampalataya",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Anong uri ng pagkonsumo ang nakabubuti sa kalikasan?",
+    "options": ["Maka-kalikasan", "Mapanganib", "Makatwiran", "Magarbo"],
+    "correctAnswer": "Maka-kalikasan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Ang produkto ay may halaga kung ito ay:",
+    "options": ["Mahirap hanapin", "Nakakatuwang gamitin", "May kakayahang tumugon sa pangangailangan", "Malaki ang buwis"],
+    "correctAnswer": "May kakayahang tumugon sa pangangailangan",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang direktang konsumo?",
+    "options": ["Pagsuot ng damit", "Pagbili ng tela", "Paggawa ng silya", "Pagpaplano ng negosyo"],
+    "correctAnswer": "Pagsuot ng damit",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  },
+  {
+    "question": "Sa anong paraan nakatutulong ang produksiyon sa ekonomiya?",
+    "options": ["Nagpapalakas ng turismo", "Gumagawa ng produkto para sa pagkonsumo", "Nagpapalawak ng gobyerno", "Nagpapalaki ng buwis"],
+    "correctAnswer": "Gumagawa ng produkto para sa pagkonsumo",
+    "gradeLevel": "9",
+    "quarter": "1st Quarter"
+  } 
+]
