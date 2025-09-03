@@ -6,24 +6,24 @@
     "configurations": [
 
         {
-            "name": "project_leap",
+            "name": "project_sikap",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "project_leap (Flutter CPH2625)",
+            "name": "project_sikap (Flutter CPH2625)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "debug"
         },
         {
-            "name": "project_leap (profile mode)",
+            "name": "project_sikap (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "project_leap (release mode)",
+            "name": "project_sikap (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

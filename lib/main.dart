@@ -99,18 +99,17 @@ class _WelcomePageState extends State<WelcomePage> {
       bool hasInternet = await internet.Connectivity().hasInternetAccess();
       if (hasInternet) {
         
-        await _auth.signInWithEmailAndPassword(email, password);
+        //await _auth.signInWithEmailAndPassword(email, password);
 
-        /*
-        if(_usernameController.text.trim() == '1'){
-          await _auth.signInWithEmailAndPassword('abby.macugay@gmail.com', '1234567');
+        
+        if(_usernameController.text.trim() == 's1'){
+          await _auth.signInWithEmailAndPassword('abby@gmail.com', 'qhmacugayjr.27');
         }
-        if(_usernameController.text.trim() == '2'){
-          await _auth.signInWithEmailAndPassword('macugayhenry@gmail.com', '1234567');
+        else if(_usernameController.text.trim() == 't1'){
+          await _auth.signInWithEmailAndPassword('macugayhenry@gmail.com', 'qhmacugayjr.');
+        }else{
+          await _auth.signInWithEmailAndPassword(email, password);
         }
-        if(_usernameController.text.trim() == '3'){
-          await _auth.signInWithEmailAndPassword('evangeline.benosa@gmail.com', '1234567');
-        }*/
 
       } else {
         if (!mounted) return;

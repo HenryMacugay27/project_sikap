@@ -4,6 +4,7 @@ import 'package:project_sikap/screens/teachers_portal/student_report/student_rep
 import '../../../utils/authentication/auth.dart';
 import '../../../../controller/dashboard_controller.dart';
 import '../../../../model/user.dart';
+import '../../user/user_info_screen.dart';
 import 'package:project_sikap/screens/teachers_portal/about_edi/aboutEDI_page.dart'; // ✅ Import ModulePage
 import '../../../../model/module.dart'; // ✅ Assuming you use a Module model
 
@@ -48,6 +49,7 @@ class _MainDashboardTeacherState extends State<MainDashboardTeacher> {
           firstName = user.firstName;
           gradeLevel = user.gradeLevel.toString();
           quarter = user.quarter;
+          fullName = user.fullName ?? 'Loading...';
         });
 
         _fetchStudentsInfo();
@@ -130,7 +132,25 @@ class _MainDashboardTeacherState extends State<MainDashboardTeacher> {
           ),
           ListTile(
             title: const Text('Profile'),
-            onTap: () {},
+            onTap: () {
+              if (currentUser != null) {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => UserInfoScreen(
+                      firstName: currentUser!.firstName,
+                      middleName: currentUser!.middleName,
+                      lastName: currentUser!.lastName,
+                      fullName: currentUser!.fullName,
+                      email: currentUser!.email,
+                      gradeLevel: currentUser!.gradeLevel.toString(),
+                      section: currentUser!.section,
+                      quarter: currentUser!.quarter,
+                    ),
+                  ),
+                );
+              }
+            },
           ),
           ListTile(
             title: const Text('Sign Out'),

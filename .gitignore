@@ -44,5 +44,3 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# .gitignore for Android Studio
-project_leap\assets\video

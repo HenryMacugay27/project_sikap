@@ -8,7 +8,7 @@ import '../../video_lesson_page.dart';
 import '../../../constants/module_paths.dart';
 import '../../../model/module.dart';
 import '../../../model/user.dart';
-import '../user/user_info_screen.dart';
+import '../../user/user_info_screen.dart';
 import '../exam/exam_screen.dart';
 
 class MainDashboardStudent extends StatefulWidget {
