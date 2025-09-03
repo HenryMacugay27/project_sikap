@@ -74,7 +74,7 @@ class _PracticeExamMediumState extends State<PracticeExamMedium> {
         final firestoreService = FirestoreExamService();
         firestoreService.saveExamResult(
           user: widget.user!,
-          examType: 'Medium',
+          examType: 'Average',
           score: score,
           numberOfItems: questions.length,
         );

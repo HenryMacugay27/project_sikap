@@ -69,7 +69,7 @@ class _PracticeExamHardState extends State<PracticeExamHard> {
         final firestoreService = FirestoreExamService();
         firestoreService.saveExamResult(
           user: widget.user!,
-          examType: 'Hard',
+          examType: 'Difficult',
           score: score,
           numberOfItems: questions.length,
         );

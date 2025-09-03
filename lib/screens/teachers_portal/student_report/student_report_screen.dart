@@ -60,7 +60,7 @@ class _StudentGraphScreenState extends State<StudentGraphScreen> {
             ),
             Padding(
               padding: const EdgeInsets.all(16.0),
-              child: LineChartWidget(dataType: 'Post_Exam', examResults: examResults),
+              child: LineChartWidget1(dataType: 'Post_Exam', examResults: examResults),
             ),
           ],
         ),
@@ -95,8 +95,8 @@ class PreExamChartTabs extends StatelessWidget {
             child: TabBarView(
               children: [
                 LineChartWidget(dataType: 'Easy', examResults: examResults),
-                LineChartWidget(dataType: 'Medium', examResults: examResults),
-                LineChartWidget(dataType: 'Hard', examResults: examResults),
+                LineChartWidget(dataType: 'Average', examResults: examResults),
+                LineChartWidget(dataType: 'Difficult', examResults: examResults),
               ],
             ),
           ),
@@ -141,15 +141,41 @@ class LineChartWidget extends StatelessWidget {
               LineChartData(
                 backgroundColor: Colors.indigo.shade50,
                 gridData: FlGridData(show: true),
-                titlesData: FlTitlesData( 
-                  leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, interval: 1)),
-                  bottomTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, interval: 1)),
+                titlesData: FlTitlesData(
+                  leftTitles: AxisTitles(
+                    sideTitles: SideTitles(
+                      showTitles: true,
+                      interval: 1, // Adjust this value to increase spacing between left titles
+                      reservedSize: 20, // Increase the reserved space for left titles
+                      getTitlesWidget: (value, meta) {
+                        // Remove decimal .0 and show the value as an integer
+                        return Text(
+                          value.toInt().toString(), // Convert value to int to remove decimal
+                          style: TextStyle(color: const Color.fromARGB(255, 0, 0, 0)),
+                        );
+                      },
+                    ),
+                  ),
+                  bottomTitles: AxisTitles(
+                    sideTitles: SideTitles(
+                      showTitles: true,
+                      interval: 1, // Adjust this value to increase spacing between left titles
+                      reservedSize: 20, // Increase the reserved space for left titles
+                      getTitlesWidget: (value, meta) {
+                        // Remove decimal .0 and show the value as an integer
+                        return Text(
+                          value.toInt().toString(), // Convert value to int to remove decimal
+                          style: TextStyle(color: const Color.fromARGB(255, 0, 0, 0)),
+                        );
+                      },
+                    ),
+                  ),
                   topTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
                   rightTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
                 ),
                 borderData: FlBorderData(show: true, border: Border.all(color: Colors.indigo.shade200)),
                 minX: 1,
-                maxX: index-1,
+                maxX: index - 1,
                 minY: 0,
                 maxY: 5,
                 lineBarsData: [
@@ -235,15 +261,30 @@ class LineChartWidget1 extends StatelessWidget {
               LineChartData(
                 backgroundColor: Colors.indigo.shade50,
                 gridData: FlGridData(show: true),
-                titlesData: FlTitlesData( 
-                  leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, interval: 1)),
-                  bottomTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, interval: 1)),
+                titlesData: FlTitlesData(
+                  leftTitles: AxisTitles(
+                    sideTitles: SideTitles(
+                      showTitles: true,
+                      interval: 4, // Adjust this value to increase spacing between left titles
+                      reservedSize: 20, // Increase the reserved space for left titles
+                      getTitlesWidget: (value, meta) {
+                        // Remove decimal .0 and show the value as an integer
+                        return Text(
+                          value.toInt().toString(), // Convert value to int to remove decimal
+                          style: TextStyle(color: const Color.fromARGB(255, 0, 0, 0)),
+                        );
+                      },
+                    ),
+                  ),
+                  bottomTitles: AxisTitles(
+                    sideTitles: SideTitles(showTitles: true, interval: 1),
+                  ),
                   topTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
                   rightTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
                 ),
                 borderData: FlBorderData(show: true, border: Border.all(color: Colors.indigo.shade200)),
                 minX: 1,
-                maxX: index-1,
+                maxX: index - 1,
                 minY: 0,
                 maxY: 20,
                 lineBarsData: [
