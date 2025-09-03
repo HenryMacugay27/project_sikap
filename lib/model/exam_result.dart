@@ -3,7 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 class ExamResult {
   final DateTime dateCreated;
   final String examType;
-  final int gradeLevel;
+  final int gradeLevel; 
   final int numberOfItems;
   final int score;
   final String section;
