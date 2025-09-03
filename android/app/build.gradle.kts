@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.project_leap"
+    namespace = "com.example.project_sikap"
     compileSdk = flutter.compileSdkVersion
     //ndkVersion = flutter.ndkVersion
     ndkVersion = "27.0.12077973"
