@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:project_leap/firestore_services/firestore_exam_service.dart';
-import 'package:project_leap/utils/widget/error_handler/exam_result/exam_result_screen.dart';
-import 'package:project_leap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
-import 'package:project_leap/utils/internet_connectivity/connectivity.dart' as internet;
+import 'package:project_sikap/firestore_services/firestore_exam_service.dart';
+import 'package:project_sikap/utils/widget/error_handler/exam_result/exam_result_screen.dart';
+import 'package:project_sikap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
+import 'package:project_sikap/utils/internet_connectivity/connectivity.dart' as internet;
 import '../../../model/user.dart';
 
 class PracticeExamHard extends StatefulWidget {

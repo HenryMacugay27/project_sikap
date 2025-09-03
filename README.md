@@ -1,63 +1,93 @@
-# project_leap
+📱 project_leap
 
 A new Flutter project.
 
-## Getting Started
+🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as the starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+📚 Helpful Resources for Flutter Beginners:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lab: Write your first Flutter app: https://docs.flutter.dev/get-started/codelab
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cookbook: Useful Flutter samples: https://docs.flutter.dev/cookbook
+
+Flutter documentation: https://docs.flutter.dev/
+: Includes tutorials, API reference, and best practices for mobile development.
+
+🛠️ Setup Instructions
+1. Install Git
+
+Download and install Git from: https://git-scm.com/downloads
+
+2. Clone the SIKAP Project (Optional Reference)
+git clone https://github.com/HenryMacugay27/project_sikap.git
+
+3. Setup for Android App Development
+✅ Required Tools & Downloads:
+
+Flutter CLI:
+Install Flutter
+
+Java Development Kit (JDK) 17:
+Download JDK 17
+
+Node.js (v22.14.0):
+Download Node.js
+
+Firebase Project:
+Connect your Flutter app to Firebase:
+Firebase Console – Android App Settings
+
+⚙️ Environment Variables
+Add the following paths to your system environment variables:
+Path:
+C:\src\flutter\bin  
+C:\Program Files\Java\jdk-17\bin  
+C:\Users\PC\AppData\Roaming\npm
+
+JAVA_HOME:
+C:\Program Files\Java\jdk-17
+
+📦 Building the APK
+Step-by-step:
+
+Clean the build:
+
+flutter clean
 
 
-Installation for android app
--Install Firebase for: https://console.firebase.google.com/u/0/
--Install Flutter CLI for: https://docs.flutter.dev/get-started/install/windows/mobile
--Install JDJ 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
--Install Node: https://nodejs.org/en node-v22.14.0-x64
+Get project dependencies:
 
-Environment Variables
--Path
-  -C:\src\flutter\bin
-  -C:\Program Files\Java\jdk-17\bin
-  -C:\Users\PC\AppData\Roaming\npm
--JAVA_HOME
-  -C:\Program Files\Java\jdk-17
+flutter pub get
 
-Compilation
--C:\project_leap> flutter clean: 
-  Deleting build...                                                1,293ms
-  Deleting .dart_tool...                                               9ms
-  Deleting Generated.xcconfig...                                       0ms
-  Deleting flutter_export_environment.sh...                            0ms
-  Deleting ephemeral...                                                1ms
-  Deleting ephemeral...                                                1ms
-  Deleting ephemeral...                                                3ms
-  Deleting .flutter-plugins-dependencies...                            1ms
-  Deleting .flutter-plugins...      
 
--C:\project_leap> flutter pub get
-  Resolving dependencies... (2.4s)
-  Downloading packages... 
-    async 2.12.0 (2.13.0 available)
-    fake_async 1.3.2 (1.3.3 available)
-    leak_tracker 10.0.8 (10.0.9 available)
-    material_color_utilities 0.11.1 (0.12.0 available)
-    vm_service 14.3.1 (15.0.0 available)
-  Got dependencies!
-    5 packages have newer versions incompatible with dependency constraints.
-    Try `flutter pub outdated` for more information.
+You may see outdated packages. To inspect:
 
--C:\project_leap> flutter run  
-  Create apk
+flutter pub outdated
 
--C:\project_leap> flutter pub upgrade --major-versions
+
+Upgrade all packages to the latest major versions:
+
+flutter pub upgrade --major-versions
+
+
+Run the app (create the APK):
+
+flutter run
+
+
+This will build and run the application on a connected Android device or emulator. For release builds:
+
+flutter build apk --release
+
+✅ Notes
+
+Make sure your Android emulator is running or a device is connected via USB (with USB debugging enabled).
+
+Ensure your Firebase project is correctly configured, and the google-services.json file is placed under android/app/.
+
+Let me know if you'd like this in another format or need any additional adjustments!
 
 
 

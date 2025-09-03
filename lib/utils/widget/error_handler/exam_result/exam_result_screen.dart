@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_leap/screens/students_portal/dashbard/main_dashboard_student.dart';
+import 'package:project_sikap/screens/students_portal/dashbard/main_dashboard_student.dart';
 
 class ExamResultScreen extends StatelessWidget {
   final int score;

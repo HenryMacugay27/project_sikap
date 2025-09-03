@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project_leap/main.dart';
-import 'package:project_leap/model/user.dart';
+import 'package:project_sikap/main.dart';
+import 'package:project_sikap/model/user.dart';
 import '../../../utils/authentication/auth.dart';
 
 // Firestore

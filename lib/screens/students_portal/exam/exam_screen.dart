@@ -2,11 +2,11 @@ import 'dart:math';  // Import the Random class
 import 'dart:convert'; // Import for JSON parsing
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:project_leap/firestore_services/firestore_exam_service.dart';
-import 'package:project_leap/model/user.dart';
-import 'package:project_leap/utils/internet_connectivity/connectivity.dart' as internet;
-import 'package:project_leap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
-import 'package:project_leap/utils/widget/error_handler/exam_result/exam_result_screen.dart';  // Import for loading assets
+import 'package:project_sikap/firestore_services/firestore_exam_service.dart';
+import 'package:project_sikap/model/user.dart';
+import 'package:project_sikap/utils/internet_connectivity/connectivity.dart' as internet;
+import 'package:project_sikap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
+import 'package:project_sikap/utils/widget/error_handler/exam_result/exam_result_screen.dart';  // Import for loading assets
 
 
 class ExamScreen extends StatefulWidget {

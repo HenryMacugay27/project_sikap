@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:project_leap/utils/internet_connectivity/connectivity.dart' as internet;
-import 'package:project_leap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
+import 'package:project_sikap/utils/internet_connectivity/connectivity.dart' as internet;
+import 'package:project_sikap/utils/widget/error_handler/error_dialog.dart' as error_dialog;
 import 'model/user.dart';
 import 'screens/students_portal/registration/register_page.dart'; 
 import 'screens/students_portal/dashbard/main_dashboard_student.dart'; 

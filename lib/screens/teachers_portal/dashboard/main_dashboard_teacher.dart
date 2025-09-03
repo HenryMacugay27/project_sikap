@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:project_leap/screens/teachers_portal/student_report/student_report_screen.dart';
+import 'package:project_sikap/screens/teachers_portal/student_report/student_report_screen.dart';
 import '../../../utils/authentication/auth.dart';
 import '../../../../controller/dashboard_controller.dart';
 import '../../../../model/user.dart';
-import 'package:project_leap/screens/teachers_portal/about_edi/aboutEDI_page.dart'; // ✅ Import ModulePage
+import 'package:project_sikap/screens/teachers_portal/about_edi/aboutEDI_page.dart'; // ✅ Import ModulePage
 import '../../../../model/module.dart'; // ✅ Assuming you use a Module model
 
 class MainDashboardTeacher extends StatefulWidget {

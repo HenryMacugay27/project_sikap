@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
-import 'package:project_leap/model/exam_result.dart';
+import 'package:project_sikap/model/exam_result.dart';
 import '../../../../model/user.dart';
 import '../../../../utils/dml/dml_statement.dart' as dml;
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project_leap/main.dart';
-import 'package:project_leap/screens/students_portal/story/story_page.dart';
+import 'package:project_sikap/main.dart';
+import 'package:project_sikap/screens/students_portal/story/story_page.dart';
 import '../utils/authentication/auth.dart';
 import '../model/module.dart';
 import '../model/user.dart'; 

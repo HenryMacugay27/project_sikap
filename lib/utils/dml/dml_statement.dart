@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:project_leap/model/exam_result.dart';
-import 'package:project_leap/model/user.dart'; // Assuming this is your custom ExamResult model
+import 'package:project_sikap/model/exam_result.dart';
+import 'package:project_sikap/model/user.dart'; // Assuming this is your custom ExamResult model
 
 class DmlStatement {
     Future<List<ExamResult>> fetchExamResults(User student) async {
